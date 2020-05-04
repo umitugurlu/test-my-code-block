@@ -1,15 +1,14 @@
 {
-    "name": "test my code block",
+    "name": "my code block",
     "description": "",
     "dependencies": {
         "core": "*",
-        "radio": "*",
-        "my code block": "github:umitugurlu/my-code-block#master"
+        "radio": "*"
     },
     "files": [
-        "main.blocks",
         "main.ts",
-        "README.md"
+        "README.md",
+        "custom.ts"
     ],
     "testFiles": [
         "test.ts"
@@ -17,5 +16,5 @@
     "supportedTargets": [
         "microbit"
     ],
-    "preferredEditor": "blocksprj"
+    "preferredEditor": "tsprj"
 }

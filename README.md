@@ -1,5 +1,5 @@
 
-> Open this page at [https://umitugurlu.github.io/test-my-code-block/](https://umitugurlu.github.io/test-my-code-block/)
+> Open this page at [https://umitugurlu.github.io/my-code-block/](https://umitugurlu.github.io/my-code-block/)
 
 ## Use as Extension
 
@@ -8,22 +8,22 @@ This repository can be added as an **extension** in MakeCode.
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **New Project**
 * click on **Extensions** under the gearwheel menu
-* search for **https://github.com/umitugurlu/test-my-code-block** and import
+* search for **https://github.com/umitugurlu/my-code-block** and import
 
-## Edit this project ![Build status badge](https://github.com/umitugurlu/test-my-code-block/workflows/MakeCode/badge.svg)
+## Edit this project ![Build status badge](https://github.com/umitugurlu/my-code-block/workflows/MakeCode/badge.svg)
 
 To edit this repository in MakeCode.
 
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **Import** then click on **Import URL**
-* paste **https://github.com/umitugurlu/test-my-code-block** and click import
+* paste **https://github.com/umitugurlu/my-code-block** and click import
 
 ## Blocks preview
 
 This image shows the blocks code from the last commit in master.
 This image may take a few minutes to refresh.
 
-![A rendered view of the blocks](https://github.com/umitugurlu/test-my-code-block/raw/master/.github/makecode/blocks.png)
+![A rendered view of the blocks](https://github.com/umitugurlu/my-code-block/raw/master/.github/makecode/blocks.png)
 
 #### Metadata (used for search, rendering)
 

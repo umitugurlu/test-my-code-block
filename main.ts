@@ -1,3 +1,16 @@
-basic.forever(function () {
-	
-})
+namespace mycodeblock {
+    //% block
+    export function yenikodblogu(){
+        basic.showLeds(`
+        # . . . #
+        # . . . #
+        # . . . #
+        # . . . #
+        # # # # #
+        `)
+
+    } 
+
+
+
+}
